@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/castorhyun/chatbot_svr",
+  "PROJECT_NAME":"chatbot_svr",
+  "REMOTE_HOST":"chatbotflow.ml",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
