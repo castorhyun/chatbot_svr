@@ -1,5 +1,5 @@
 {
-  "REPO_URL":"https://github.com/castorhyun/chatbot_svr",
+  "REPO_URL":"https://github.com/castorhyun/chatbot_svr.git",
   "PROJECT_NAME":"chatbot_svr",
   "REMOTE_HOST":"chatbotflow.ml",
   "REMOTE_USER":"django",
